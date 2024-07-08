@@ -35,5 +35,5 @@ jobs:
           comment-summary-in-pr: always
         #  deny-licenses: MIT
         #   fail-on-severity: moderate
-          deny-licenses: GPL-1.0-or-later, LGPL-2.0-or-later, MIT
+          deny-licenses: GPL-1.0-or-later, LGPL-2.0-or-later, MIT, BSD-2-Clause
         #   retry-on-snapshot-warnings: true
